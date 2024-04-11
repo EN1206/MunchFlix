@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hands-on4_LEMERU", "Hands-on4_LEMERU.vbproj", "{DB75FF5F-EB4F-49F3-9601-1E3F4DEF3403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB75FF5F-EB4F-49F3-9601-1E3F4DEF3403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB75FF5F-EB4F-49F3-9601-1E3F4DEF3403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB75FF5F-EB4F-49F3-9601-1E3F4DEF3403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB75FF5F-EB4F-49F3-9601-1E3F4DEF3403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {908211ED-D698-4170-932D-8AA7C94490FD}
+	EndGlobalSection
+EndGlobal

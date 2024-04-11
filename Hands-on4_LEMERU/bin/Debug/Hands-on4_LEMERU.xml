@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hands-on4_LEMERU
+</name>
+</assembly>
+<members>
+<member name="T:Hands_on4_LEMERU.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._0316_ezgif_com_optimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._1e58803f6515649ef5e8210a82acaff3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._20240303_183650_0000">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources._E4E2DD__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.Billout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.cart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.Checkout_page">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.final_frame">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.frame1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.frame1__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.frame1__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.frame1__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.frame1__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.MunchBear_Logo__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.panda_eating_noodles_cartoon_60tldck9yylt1nf3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.Red_Bold_Restaurant_Advertisement_Landscape_Banner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.Red_Bold_Restaurant_Advertisement_Landscape_Banner__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.Untitled_design__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hands_on4_LEMERU.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
