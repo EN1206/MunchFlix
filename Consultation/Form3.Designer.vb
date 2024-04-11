@@ -91,7 +91,7 @@ Partial Class frmCheckout
         '
         Me.lblPrice.AutoSize = True
         Me.lblPrice.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblPrice.Location = New System.Drawing.Point(545, 10)
+        Me.lblPrice.Location = New System.Drawing.Point(523, 10)
         Me.lblPrice.Name = "lblPrice"
         Me.lblPrice.Size = New System.Drawing.Size(44, 20)
         Me.lblPrice.TabIndex = 3
@@ -139,10 +139,11 @@ Partial Class frmCheckout
         'lblSumPrices
         '
         Me.lblSumPrices.AutoSize = True
-        Me.lblSumPrices.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblSumPrices.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblSumPrices.ForeColor = System.Drawing.Color.Lime
         Me.lblSumPrices.Location = New System.Drawing.Point(117, 246)
         Me.lblSumPrices.Name = "lblSumPrices"
-        Me.lblSumPrices.Size = New System.Drawing.Size(91, 42)
+        Me.lblSumPrices.Size = New System.Drawing.Size(95, 42)
         Me.lblSumPrices.TabIndex = 29
         Me.lblSumPrices.Text = "0.00"
         '
@@ -170,9 +171,9 @@ Partial Class frmCheckout
         '
         Me.lblPrice6.BackColor = System.Drawing.Color.White
         Me.lblPrice6.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblPrice6.Location = New System.Drawing.Point(549, 175)
+        Me.lblPrice6.Location = New System.Drawing.Point(513, 175)
         Me.lblPrice6.Name = "lblPrice6"
-        Me.lblPrice6.Size = New System.Drawing.Size(40, 18)
+        Me.lblPrice6.Size = New System.Drawing.Size(66, 18)
         Me.lblPrice6.TabIndex = 26
         Me.lblPrice6.Text = "0"
         Me.lblPrice6.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -217,9 +218,9 @@ Partial Class frmCheckout
         '
         Me.lblPrice5.BackColor = System.Drawing.Color.White
         Me.lblPrice5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblPrice5.Location = New System.Drawing.Point(549, 148)
+        Me.lblPrice5.Location = New System.Drawing.Point(513, 148)
         Me.lblPrice5.Name = "lblPrice5"
-        Me.lblPrice5.Size = New System.Drawing.Size(40, 18)
+        Me.lblPrice5.Size = New System.Drawing.Size(66, 18)
         Me.lblPrice5.TabIndex = 19
         Me.lblPrice5.Text = "0"
         Me.lblPrice5.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -264,9 +265,9 @@ Partial Class frmCheckout
         '
         Me.lblPrice3.BackColor = System.Drawing.Color.White
         Me.lblPrice3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblPrice3.Location = New System.Drawing.Point(549, 96)
+        Me.lblPrice3.Location = New System.Drawing.Point(513, 96)
         Me.lblPrice3.Name = "lblPrice3"
-        Me.lblPrice3.Size = New System.Drawing.Size(40, 18)
+        Me.lblPrice3.Size = New System.Drawing.Size(66, 18)
         Me.lblPrice3.TabIndex = 15
         Me.lblPrice3.Text = "0"
         Me.lblPrice3.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -311,9 +312,9 @@ Partial Class frmCheckout
         '
         Me.lblPrice2.BackColor = System.Drawing.Color.White
         Me.lblPrice2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblPrice2.Location = New System.Drawing.Point(549, 66)
+        Me.lblPrice2.Location = New System.Drawing.Point(513, 66)
         Me.lblPrice2.Name = "lblPrice2"
-        Me.lblPrice2.Size = New System.Drawing.Size(40, 18)
+        Me.lblPrice2.Size = New System.Drawing.Size(66, 18)
         Me.lblPrice2.TabIndex = 11
         Me.lblPrice2.Text = "0"
         Me.lblPrice2.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -323,9 +324,9 @@ Partial Class frmCheckout
         '
         Me.lblPrice4.BackColor = System.Drawing.Color.White
         Me.lblPrice4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblPrice4.Location = New System.Drawing.Point(549, 122)
+        Me.lblPrice4.Location = New System.Drawing.Point(513, 122)
         Me.lblPrice4.Name = "lblPrice4"
-        Me.lblPrice4.Size = New System.Drawing.Size(40, 18)
+        Me.lblPrice4.Size = New System.Drawing.Size(66, 18)
         Me.lblPrice4.TabIndex = 11
         Me.lblPrice4.Text = "0"
         Me.lblPrice4.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -405,9 +406,9 @@ Partial Class frmCheckout
         '
         Me.lblPrice1.BackColor = System.Drawing.Color.White
         Me.lblPrice1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblPrice1.Location = New System.Drawing.Point(549, 39)
+        Me.lblPrice1.Location = New System.Drawing.Point(513, 39)
         Me.lblPrice1.Name = "lblPrice1"
-        Me.lblPrice1.Size = New System.Drawing.Size(40, 18)
+        Me.lblPrice1.Size = New System.Drawing.Size(66, 18)
         Me.lblPrice1.TabIndex = 7
         Me.lblPrice1.Text = "0"
         Me.lblPrice1.TextAlign = System.Drawing.ContentAlignment.TopCenter
