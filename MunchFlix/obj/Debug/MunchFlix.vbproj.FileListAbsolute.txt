@@ -1,0 +1,15 @@
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\bin\Debug\MunchFlix.exe.config
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\bin\Debug\MunchFlix.exe
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\bin\Debug\MunchFlix.pdb
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\bin\Debug\MunchFlix.xml
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.vbproj.AssemblyReference.cache
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.frmLoadingScreen.resources
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.Resources.resources
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.vbproj.GenerateResource.cache
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.vbproj.CoreCompileInputs.cache
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.exe
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.xml
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.pdb
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.frmMainMenu.resources
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.frmCheckout.resources
+C:\Users\moama\source\repos\Legaspi Melendres Rupinta\MunchFlix\obj\Debug\MunchFlix.frmMenus.resources
