@@ -1,0 +1,14 @@
+C:\Users\moama\source\repos\EJ\Features\Consultation\bin\Debug\Consultation.exe.config
+C:\Users\moama\source\repos\EJ\Features\Consultation\bin\Debug\Consultation.exe
+C:\Users\moama\source\repos\EJ\Features\Consultation\bin\Debug\Consultation.pdb
+C:\Users\moama\source\repos\EJ\Features\Consultation\bin\Debug\Consultation.xml
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.vbproj.AssemblyReference.cache
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.Resources.resources
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.vbproj.GenerateResource.cache
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.vbproj.CoreCompileInputs.cache
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.exe
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.xml
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.pdb
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.frmMain.resources
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.frmOrder.resources
+C:\Users\moama\source\repos\EJ\Features\Consultation\obj\Debug\Consultation.frmCheckout.resources
